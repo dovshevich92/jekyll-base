@@ -1,4 +1,9 @@
 ---
 label: payture
 hide_body: false
-fields: []
+fields:
+- name: pauture_label
+  type: text
+  config:
+    required: false
+  label: pauture label
